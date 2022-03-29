@@ -112,6 +112,11 @@ td {
 table {
 	width: 99%;
 	background: linear-gradient(45deg, #d82eda, #e5b5e6);
+	border: 2px solid black;
+}
+th,
+td {
+	border: 1px solid black;
 }
 .card {
 	/* border: 1px solid #000; */
